@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/brunoceccolini/static/css/main.5101cddb.css",
-    "main.js": "/brunoceccolini/static/js/main.61b5067c.js",
+    "main.js": "/brunoceccolini/static/js/main.05560f3b.js",
     "static/js/787.bbe01249.chunk.js": "/brunoceccolini/static/js/787.bbe01249.chunk.js",
     "static/media/st-andrews-logo.png": "/brunoceccolini/static/media/st-andrews-logo.5b7c9671f8d9a656635e.png",
     "index.html": "/brunoceccolini/index.html",
     "main.5101cddb.css.map": "/brunoceccolini/static/css/main.5101cddb.css.map",
-    "main.61b5067c.js.map": "/brunoceccolini/static/js/main.61b5067c.js.map",
+    "main.05560f3b.js.map": "/brunoceccolini/static/js/main.05560f3b.js.map",
     "787.bbe01249.chunk.js.map": "/brunoceccolini/static/js/787.bbe01249.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5101cddb.css",
-    "static/js/main.61b5067c.js"
+    "static/js/main.05560f3b.js"
   ]
 }
